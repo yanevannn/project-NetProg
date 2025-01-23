@@ -21,3 +21,6 @@ Untuk menjalankan program dapat menggunakan perintah berikut
 ```bash
 python app.py
 ```
+
+### Note
+Passtikan pada device sudah terinstall python
